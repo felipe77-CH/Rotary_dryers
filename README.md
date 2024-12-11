@@ -1,8 +1,13 @@
 # **Analysis of Potential Energy Savings in a Rotary Dryer for Copper and Molybdenum Tailings Using Data Mining Techniques**
 
-A well-known mining company from northern Chile, dedicated to the extraction of copper and molybdenum, was analyzed as a case study. Regarding the processes, dry tailings are diluted with pressurized water to form a mixture that undergoes several flotation stages aimed at enriching the metals present. The resulting concentrate, composed mainly of copper and molybdenum, is dried, temporarily stored, and finally exported.This process involves various operational variables, whose historical records generate large volumes of data. These data can be efficiently organized and analyzed using data mining techniques (DMT).
 
-In this study, the main performance variables of a rotary dryer used in the mining industry were identified and analyzed. A linear regression model was constructed using a feature selection algorithm.Among the most relevant variables for thermal energy consumption were production rate, power, inlet gas temperature, and product moisture delta. With these variables, the energy versus production curve was developed, a key concept for establishing a baseline indicator for process consumption.The energy versus production curve represents the relationship between the amount of energy consumed and the amount of material processed, typically expressed as energy consumed per unit of production (e.g., kWh/t). This graph allows for visualizing how energy consumption varies with production, helping to identify patterns of inefficiency or deviations in the process. It also serves as a reference for evaluating improvements in energy efficiency and setting consumption reduction goals by comparing current values with those expected in an optimal scenario.
+A well-known mining company in northern Chile, focused on the extraction of copper and molybdenum, was analyzed as a case study. In the process, dry tailings are mixed with pressurized water and undergo multiple flotation stages to enrich the metals. The resulting concentrate, mainly copper and molybdenum, is dried, stored temporarily, and exported.
+
+This process involves various operational variables, generating large volumes of data that can be efficiently analyzed using data mining techniques (DMT).
+
+In this study, the key performance variables of a rotary dryer in the mining industry were identified and analyzed. A linear regression model was built using a feature selection algorithm. The most relevant variables for thermal energy consumption included production rate, power, inlet gas temperature, and product moisture delta. These variables were used to develop the energy versus production curve, which serves as a baseline indicator for process energy consumption.
+
+The energy versus production curve shows the relationship between energy consumed and material processed, typically expressed as energy per unit of production (e.g., kWh/t). This graph helps identify inefficiencies and deviations, providing a reference for evaluating energy efficiency improvements and setting consumption reduction goals.
 
 ## Bibliography
 
