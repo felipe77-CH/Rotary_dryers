@@ -11,9 +11,9 @@ The energy versus production curve shows the relationship between energy consume
 
 ## Objectives 
 
-1. Realizar un levantamiento de la situación actual en términos operativos de la etapa de secado.
-2. Identificar las curvas base de consumo energético térmico asociadas al proceso de secado.
-3. Proponer mejoras mediante la interpretación adecuada de los datos obtenidos.
+1. Conduct an assessment of the current operational situation in the drying stage.
+2. Identify the baseline thermal energy consumption curves associated with the drying process.
+3. Propose improvements through the proper interpretation of the data obtained.
 
 
 ## Bibliography
