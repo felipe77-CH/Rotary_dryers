@@ -4,6 +4,6 @@ A well-known mining company from northern Chile, dedicated to the extraction of 
 
 In this study, the main performance variables of a rotary dryer used in the mining industry were identified and analyzed. A linear regression model was constructed using a feature selection algorithm.Among the most relevant variables for thermal energy consumption were production rate, power, inlet gas temperature, and product moisture delta. With these variables, the energy versus production curve was developed, a key concept for establishing a baseline indicator for process consumption.The energy versus production curve represents the relationship between the amount of energy consumed and the amount of material processed, typically expressed as energy consumed per unit of production (e.g., kWh/t). This graph allows for visualizing how energy consumption varies with production, helping to identify patterns of inefficiency or deviations in the process. It also serves as a reference for evaluating improvements in energy efficiency and setting consumption reduction goals by comparing current values with those expected in an optimal scenario.
 
-## Bibliografía
+## Bibliography
 
 1. Cadavid, Y., Echeverri-Uribe, C., Mejía, C. C., Amell, A., Rivas Medina, J. D., & Muñoz Ospina, J. A. (2022). Analysis of potential energy savings in a rotary dryer for clay drying using data mining techniques. *Drying Technology, 40*(7), 1451-1462.
