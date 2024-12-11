@@ -9,6 +9,13 @@ In this study, the key performance variables of a rotary dryer in the mining ind
 
 The energy versus production curve shows the relationship between energy consumed and material processed, typically expressed as energy per unit of production (e.g., kWh/t). This graph helps identify inefficiencies and deviations, providing a reference for evaluating energy efficiency improvements and setting consumption reduction goals.
 
+## Objectives 
+
+1. Realizar un levantamiento de la situación actual en términos operativos de la etapa de secado.
+2. Identificar las curvas base de consumo energético térmico asociadas al proceso de secado.
+3. Proponer mejoras mediante la interpretación adecuada de los datos obtenidos.
+
+
 ## Bibliography
 
 1. Cadavid, Y., Echeverri-Uribe, C., Mejía, C. C., Amell, A., Rivas Medina, J. D., & Muñoz Ospina, J. A. (2022). Analysis of potential energy savings in a rotary dryer for clay drying using data mining techniques. *Drying Technology, 40*(7), 1451-1462.
